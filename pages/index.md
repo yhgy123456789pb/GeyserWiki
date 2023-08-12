@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: ttps://store.mc-familytown.com/pack.zip
 ---
 
 <div class="my-3 text-center">
